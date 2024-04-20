@@ -200,3 +200,15 @@ button {
     border-color: #ffffff;
     box-shadow: none;
 }
+
+.footer-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px; 
+    background-color:#1f2937;
+    color: #ffffff;
+    margin-top: auto;
+    font-size: 14px;;
+ }
