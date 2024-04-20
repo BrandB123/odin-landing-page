@@ -128,3 +128,33 @@ button {
     text-align: center;
 }
 
+
+.main-container-3 {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;  
+    padding: 100px; 
+    background-color:#e5e7eb;
+}
+
+.main-text {
+    font-size: 36px; 
+    font-weight: 300; 
+    font-style: italic; 
+    color: #1f2937;
+    width: 80%;
+    align-self: center;
+}
+
+.main-attribution {
+    display: flex; 
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+.attribution {
+    font-size: 18px; 
+    font-weight: bold; 
+    color: #1f2937;
+}
+
